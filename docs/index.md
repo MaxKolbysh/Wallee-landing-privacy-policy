@@ -1,6 +1,6 @@
 # Welcome on SG Wallee page
 
-WallEE was developed in SGR Germany in Digital Buisness and Production group. App based on AR kit and latest "Apple" SDK.
+"SG WallEE" was developed in SGR Germany in Digital Buisness and Production group. App based on AR kit and latest "Apple" SDK.
 
 ## system requirements:
 - iOS 16 
