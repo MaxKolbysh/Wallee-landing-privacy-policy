@@ -1,7 +1,8 @@
-Welcome on SG Wallee page
+# Welcome on SG Wallee page
 
+WallEE was developed in SGR Germany in Digital Buisness and Production group. App based on AR kit and latest "Apple" SDK.
 
-system requirements:
+## system requirements:
 - iOS 16 
 - Only devices with LIDAR
 
